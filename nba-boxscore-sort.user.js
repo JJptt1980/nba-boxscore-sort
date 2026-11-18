@@ -2,18 +2,18 @@
 // @name         NBA Box Score 欄位置前與排序
 // @name:en      NBA Box Score Column Pin & Sort
 // @namespace    https://github.com/killnopig
-// @version      2.2.0
+// @version      2.2.1
 // @description  在 NBA.com box score 頁面加入按鈕：選擇欄位移到最前、依該欄數字排序、一鍵套用預設配置
 // @description:en  Adds buttons to NBA.com box score pages: pin any stat column first, sort players by it, and apply presets
-// @author       killnopig
+// @author       JJptt1980
 // @license      MIT
 // @match        https://www.nba.com/game/*
 // @grant        none
 // @run-at       document-idle
-// @homepageURL  https://github.com/killnopig/nba-boxscore-sort
-// @supportURL   https://github.com/killnopig/nba-boxscore-sort/issues
-// @updateURL    https://raw.githubusercontent.com/killnopig/nba-boxscore-sort/main/nba-boxscore-sort.user.js
-// @downloadURL  https://raw.githubusercontent.com/killnopig/nba-boxscore-sort/main/nba-boxscore-sort.user.js
+// @homepageURL  https://github.com/JJptt1980/nba-boxscore-sort
+// @supportURL   https://github.com/JJptt1980/nba-boxscore-sort/issues
+// @updateURL    https://raw.githubusercontent.com/JJptt1980/nba-boxscore-sort/main/nba-boxscore-sort.user.js
+// @downloadURL  https://raw.githubusercontent.com/JJptt1980/nba-boxscore-sort/main/nba-boxscore-sort.user.js
 // ==/UserScript==
 
 (function () {
