@@ -1,5 +1,7 @@
 # NBA Box Score 欄位置前與排序
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/jjptt1980)
+
 在 NBA.com 的 box score 頁面左下角加入兩個按鈕：
 
 - **📌 排第一**：選擇任一欄位（PTS、REB、AST…）移到球員名字後面
