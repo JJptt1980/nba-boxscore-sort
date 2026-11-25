@@ -6,7 +6,7 @@
 // @description  在 NBA.com box score 頁面加入按鈕：選擇欄位移到最前、依該欄數字排序、一鍵套用預設配置
 // @description:en  Adds buttons to NBA.com box score pages: pin any stat column first, sort players by it, and apply presets
 // @author       JJptt1980
-// @license      MIT
+// @license      PolyForm-Noncommercial-1.0.0
 // @match        https://www.nba.com/game/*
 // @grant        none
 // @run-at       document-idle
